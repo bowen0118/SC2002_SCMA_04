@@ -1,2 +1,6 @@
 # SC2002_SCMA_04
 Interview application OOPD
+
+This project deepened our practical understanding of how encapsulation protects internal state within entities and highlighted how inheritance and polymorphism reduce repeated code while supporting flexible processing of diverse user roles. Clear layer separation and high cohesion within controllers were essential, showing firsthand how these principles support both correctness and future extension. Working with sequence and class diagrams not only aided planning but also exposed gaps and helped us communicate more effectively as a team.
+Team communication was another area of growth: agreeing on controller interfaces, updating documentation as business rules changed, and maintaining naming conventions made version control and integration run much smoother. We found that regular short retrospectives within the group helped catch workflow or code structure issues quickly so we could adjust early in development.
+From a technical perspective, we recognized the trade-offs between over-engineering for flexibility versus focusing on immediate clarity and maintainability. Keeping our codebase simple and readable, even if it meant less abstraction or reuse of menu logic. However, we also appreciate how some thoughtful abstractions such as generic menu helpers or controllers 
